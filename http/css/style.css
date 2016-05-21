@@ -44,6 +44,10 @@ h5 {
 	font-style: italic;
 }
 
+.logo-img {
+    max-width: 126px;
+}
+
 .filters-container {
    padding-top: 2%;
 }
